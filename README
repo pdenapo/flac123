@@ -1,3 +1,19 @@
+
+This is based on the fork at 
+
+https://github.com/larsmagne/flac123
+
+I've only added the Debian files from etch package at
+
+http://archive.debian.net/etch/sound/flac123
+
+The original project is at
+
+http://flac-tools.sourceforge.net/
+
+
+========================================================================
+
 flac123 is a command-line program for playing flac-encoded files.
 
 To build flac123:
