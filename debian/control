@@ -1,0 +1,16 @@
+Source: flac123
+Section: sound
+Priority: optional
+Maintainer: Daniel Baumann <daniel@debian.org>
+Build-Depends: debhelper (>= 4), autotools-dev, libao-dev, libflac-dev, libpopt-dev
+Standards-Version: 3.7.2
+
+Package: flac123
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: command-line flac player
+ flac123 is a simple command-line playback tool for flac, the Free Lossless
+ Audio Codec.
+ .
+ Although newer versions of ogg123 can also play flac files, this is just
+ another player for flac.

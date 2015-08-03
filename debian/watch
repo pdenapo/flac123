@@ -1,0 +1,4 @@
+# watch control file for uscan
+
+version=3
+http://sf.net/flac-tools/flac123-(.*)\.tar\.gz
