@@ -1,7 +1,7 @@
 Source: flac123
 Section: sound
 Priority: optional
-Maintainer: Daniel Baumann <daniel@debian.org>
+Maintainer: Pablo De Nápoili <pdenapo@gmail.com>
 Build-Depends: debhelper (>= 4), autotools-dev, libao-dev, libflac-dev, libpopt-dev
 Standards-Version: 3.7.2
 
